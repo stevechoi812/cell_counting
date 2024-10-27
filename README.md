@@ -1,3 +1,3 @@
-# cs585_project
+# Hemocytometer Cell Counting
 
-Repository for my CS585 Image and Video Computing final project
+Repository for my Hemocytometer Cell Counting project
